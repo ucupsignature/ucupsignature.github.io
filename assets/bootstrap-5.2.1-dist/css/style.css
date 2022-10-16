@@ -1,0 +1,74 @@
+.font-navbar {
+    font-family: Helvetica Neue;
+    font-weight: bold;
+    background-color: crimson;
+    color: white;
+}
+
+.preview-carousel {
+    text-decoration-line: none;
+    color: white;
+    font-family: Helvetica Neue;
+}
+
+.border-contents {
+    background-color: crimson;
+    font-weight: bold;
+    font-family: Helvetica Neue;
+    display: flex;
+    color: white;
+    padding-left: 7.5%;
+}
+
+.list-article {
+    padding-left: 13.5%;
+    padding-right: 13.5%;
+    font-family: Helvetica Neue;
+}
+
+.footer-background {
+    background-color: crimson;
+    font-family: Helvetica Neue;
+    color: white;
+}
+
+.footer-font {
+    font-weight: bold;
+    text-decoration-line: none;
+    color: white;
+}
+
+.new-page {
+    font-family: Helvetica Neue;
+    font-weight: bold;
+    color: black;
+    padding-left: 7.6%;
+}
+
+.expand-title {
+    font-family: Helvetica Neue;
+}
+
+.title-expand {
+    color: white;
+}
+
+.flag-distance {
+    margin-left: 1%;
+}
+
+.hubungi-kami {
+    font-family: Helvetica Neue;
+}
+
+.kolom-email {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+}
+
+.active {
+    background-color: whitesmoke;
+}
